@@ -1,5 +1,7 @@
 # Intentionally vulnerable Golang project
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d0f75261-9f04-4697-aa0b-7e3a3e421130.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/intentionally-vulnerable-golang-project?orgId=560723739106)  
+
 [![Build Status](https://travis-ci.org/sonatype-nexus-community/intentionally-vulnerable-golang-project.svg?branch=master)](https://travis-ci.org/sonatype-nexus-community/intentionally-vulnerable-golang-project) [![CircleCI](https://circleci.com/gh/sonatype-nexus-community/intentionally-vulnerable-golang-project.svg?style=shield)](https://circleci.com/gh/sonatype-nexus-community/intentionally-vulnerable-golang-project)
 
 This is just a minimal repo for testing Sonatype's `nancy` against an intentionally vulnerable list of 
